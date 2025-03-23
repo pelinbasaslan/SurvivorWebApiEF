@@ -1,0 +1,6 @@
+@SurvivorWebApiEF_HostAddress = http://localhost:5280
+
+GET {{SurvivorWebApiEF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

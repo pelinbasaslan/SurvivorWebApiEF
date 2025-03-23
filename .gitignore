@@ -1,0 +1,59 @@
+## .NET Core ##
+# User-specific files
+.idea/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## .NET ##
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]evelopment/
+[Dd]istro/
+[Dd]ebug-AnyCPU/
+[Dd]ebug-x64/
+[Dd]ebug-x86/
+[Dd]ebug-NetCoreApp3.1/
+[Dd]ebug-NetCoreApp3.0/
+[Dd]ebug-AnyCPU/
+
+# User-specific files
+.vscode/
+.idea/
+
+# User-specific files from Visual Studio for Mac
+.vscode/
+.idea/
+
+# JetBrains Rider
+.idea/
+
+
+# .NET 6.0
+*.userprefs
+
+# Uncomment if you have projects that are published via dotnet publish
+# .publish/
+
+# VS for Mac
+.vscode/
+
+
+# Logs and temporary files
+*.log
